@@ -1,0 +1,16 @@
+{
+  "object": "medicineobj",
+  "roleGrants": [
+    {
+      "allowedGlobalActions": [
+        "CREATE", "READ"
+      ],
+      "allowedItemLevelActions": [
+        "DELETE"
+      ],
+      "itemLevelFilters": null,
+      "roleName": "pharmacist_ROLE_NAME"
+    }
+  ],
+  "sysRefId": "patientapp"
+}
